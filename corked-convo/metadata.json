@@ -1,0 +1,8 @@
+
+{
+  "name": "Corked Convo",
+  "description": "A personal AI sommelier chatbot that provides wine pairings, recipes, recommendations based on your taste profile, and helps plan travel to wine regions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
